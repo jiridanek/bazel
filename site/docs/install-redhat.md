@@ -27,7 +27,7 @@ The commands below must be run either via `sudo` or while logged in as `root`.
 
     ```bash
     dnf copr enable vbatts/bazel
-    dnf install bazel
+    dnf install bazel2
     ```
 
 ## Installing on CentOS 7
@@ -39,5 +39,5 @@ The commands below must be run either via `sudo` or while logged in as `root`.
 2. Run the following command:
 
     ```bash
-    yum install bazel
+    yum install bazel2
     ```
